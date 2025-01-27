@@ -14,6 +14,7 @@
 ### 🌱 Currently Learning
 - Deepening my skills in **ASP.NET Core** and **React** with a focus on building scalable, **cloud-ready** applications.
 - Exploring **best practices** in DevOps, CI/CD pipelines, and microservices.
+- AI/ML skills and tools
 
 ### 💞️ Looking to Collaborate On
 - Full-stack projects leveraging **C#, ASP.NET, React, SQL**, and **RESTful APIs**.
@@ -24,8 +25,8 @@
 - Continuously **learn new technologies** and **embrace challenges** as opportunities for growth.
 
 ### 📫 How to Reach Me
-- **LinkedIn**: [Connect with me here](#)
-- **Email**: your.email@example.com
+- **LinkedIn**: https://www.linkedin.com/in/abhijays/
+- **Email**: abhijay.shekhawat@gmail.com
 
 ---
 
