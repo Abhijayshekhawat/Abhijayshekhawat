@@ -1,4 +1,4 @@
-# Hi there, I’m @your-github-username! 👋
+# Hi there, I’m @Abhijayshekhawat 👋
 
 ### 👨‍💻 About Me
 - Aspiring **Full-Stack Developer** with a B.S. in Information Science & Technology from **Temple University**.
